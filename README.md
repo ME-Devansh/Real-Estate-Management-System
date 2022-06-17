@@ -3,8 +3,8 @@
 A GUI for made for maintaining details of various properties and
 agents dealing with them . 
 
-Also the interface updates the status of
+The interface updates the status of
 property if a property is sold or rented . 
 
-Built with Java using swing
-and mySQL.
+Built with frontend using Java with the help of Swing
+and used mySQL for the backend.
