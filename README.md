@@ -14,6 +14,7 @@ making it easier to manage the overall system of real estate.
 The project is divided into 2 parts :
 - frontend
 - backend
+
 The frontend is built on Java with the help of Swing. It contains the interfaces for 
 various types of users that may access the only the information specific for their assigned roles.   
 
