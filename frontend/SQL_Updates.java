@@ -1,5 +1,4 @@
-package com.company;
-
+package frontend;
 import java.sql.*;
 
 public class SQL_Updates {
